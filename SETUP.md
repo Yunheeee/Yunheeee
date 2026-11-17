@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/Yunheeee/Yunheeee/output/github-snake-dark.svg
 | 字段 | 建议值 |
 |---|---|
 | Name | `Yunheeee`（以后想公开真名再改） |
-| Bio | `Embedded developer · Storage & file systems · MPEG-PS · LLM black-box tinkering · I like rebuilding wheels.` |
+| Bio | `Embedded development · Storage stack · Occasional wheel reinvention · LLM black-box tinkering` |
 | Company | 留空 |
 | Location | 留空 |
 | Website | 留空，或填 `https://github.com/Yunheeee` |
