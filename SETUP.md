@@ -82,10 +82,9 @@ Bio 长度约 100 字符，符合 GitHub 的 160 字符限制。
 
 ## 5. 置顶仓库
 
-打开个人主页，点击 **Customize your pins**，建议置顶这 4 个原创项目：
+打开个人主页，点击 **Customize your pins**，建议置顶这 3 个原创项目：
 
 - `Ext4WslHelper`
-- `flashdb_viewer`
 - `sqlite3-file-viewer`
 - `AutoInput`
 
@@ -112,20 +111,6 @@ Access EXT4 SD cards on Windows via WSL2 + usbipd — offline setup, single exe,
 
 ```
 ext4, wsl2, usbipd, windows, sd-card, filesystem, win32, cpp, offline-installer
-```
-
-### flashdb_viewer
-
-**Description**
-
-```
-Parse and visualize FlashDB KVDB binary files — browse sectors, search keys, filter states, export JSON.
-```
-
-**Topics**
-
-```
-flashdb, kvdb, embedded, binary-parser, flask, python, visualization
 ```
 
 ### sqlite3-file-viewer
@@ -212,6 +197,6 @@ README 使用三个第三方服务：
 - [ ] Actions 中 Generate Snake 运行成功
 - [ ] `output` 分支存在，贪吃蛇图片能打开
 - [ ] 统计卡、语言卡、streak、活动图能正常加载
-- [ ] 4 个原创项目已置顶
-- [ ] 4 个项目的 Description 和 Topics 已补齐
+- [ ] 3 个原创项目已置顶
+- [ ] 3 个项目的 Description 和 Topics 已补齐
 - [ ] 个人资料 Bio 已填写

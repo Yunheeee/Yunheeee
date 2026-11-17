@@ -21,11 +21,11 @@
 
 ### 👋 About / 关于我
 
-I spend most of my time around C, FAT32, SQLite, FlashDB, EXT4, and MPEG-PS stream encapsulation.<br />
-大部分时间围绕 C、FAT32、SQLite、FlashDB、EXT4 和 MPEG-PS 码流封装。
+I spend most of my time around C, FAT32, SQLite, EXT4, and MPEG-PS stream encapsulation.<br />
+大部分时间围绕 C、FAT32、SQLite、EXT4 和 MPEG-PS 码流封装。
 
 - 🧱 **Embedded** — C, device-side storage, firmware
-- 💾 **Storage stack** — FAT32 / SQLite / FlashDB / EXT4
+- 💾 **Storage stack** — FAT32 / SQLite / EXT4
 - 🎞️ **Streaming** — MPEG-PS stream encapsulation
 - 🤖 **LLM black boxes** — building around models as APIs, not training them
 - 🔁 **Wheel reinvention** — reimplementing formats and protocols to learn them
@@ -67,8 +67,8 @@ I spend most of my time around C, FAT32, SQLite, FlashDB, EXT4, and MPEG-PS stre
 
 <div align="center">
 
-Open to conversations about embedded systems, storage formats, stream encapsulation, and LLM black-box experiments.<br />
-欢迎交流嵌入式、存储格式、码流封装和大模型黑盒实验。
+Open to conversations.<br />
+欢迎交流。
 
 **There are never enough tokens — the context window fills up, and so does life.**<br />
 **Token 总是不够用——上下文窗口会满，人生也会。**
