@@ -1,5 +1,3 @@
-<div align="center">
-
 # Yunheeee
 
 主线嵌入式开发，浅耕存储技术栈，偶尔烧token造轮子，大模型黑盒开发爱好者。
@@ -13,19 +11,3 @@
 ![Embedded](https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-### 🐍 Contributions / 贡献
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunheeee/Yunheeee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunheeee/Yunheeee/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yunheeee/Yunheeee/output/github-snake.svg" />
-</picture>
-
-</div>

@@ -9,11 +9,11 @@
 Yunheeee-profile/
 ├── README.md                      # 显示在 GitHub 个人主页顶部的介绍
 ├── SETUP.md                       # 本说明
-└── .github/workflows/snake.yml    # 生成贡献贪吃蛇 SVG
+└── .github/workflows/snake.yml    # 可选：生成贡献贪吃蛇 SVG（当前未使用）
 ```
 
-> **当前 README 保留**：标题、个人描述（中英）、技术徽章、贡献贪吃蛇。  
-> 第 7 节的统计卡/活动图属于可选扩展，当前未使用。
+> **当前 README 保留**：标题、个人描述（中英）、技术徽章，全部左对齐。  
+> 贡献贪吃蛇和统计卡均未使用；第 3、7 节仅作为可选扩展参考。
 
 ---
 
@@ -49,9 +49,10 @@ git push -u origin main
 
 如果本机 SSH key 已经能推送 `Ext4WslHelper`，这里不需要额外配置。
 
-## 3. 启用贡献贪吃蛇
+## 3. 可选：贡献贪吃蛇（当前未使用）
 
-推送后：
+当前 README 没有引用贪吃蛇图片。工作流已改为仅手动触发，不会自动运行。  
+如果以后想加回贪吃蛇，推送后：
 
 1. 打开 <https://github.com/Yunheeee/Yunheeee/actions>
 2. 如果提示启用 Actions，点击启用
@@ -59,7 +60,7 @@ git push -u origin main
 4. 点击 **Run workflow** → **Run workflow**
 5. 等待运行完成，仓库会自动生成 `output` 分支
 
-`README.md` 里的贪吃蛇图片读取的就是：
+如果以后加回贪吃蛇，README 中引用的地址是：
 
 ```
 https://raw.githubusercontent.com/Yunheeee/Yunheeee/output/github-snake.svg
@@ -165,7 +166,7 @@ serial, uart, automation, pyqt5, python, terminal
 
 1. 换回官方地址；
 2. 或部署自己的 `github-readme-stats`；
-3. 或删掉对应 `<img>`，只保留贪吃蛇和 streak。
+3. 或删掉对应 `<img>`，只保留 streak。
 
 ### 觉得动态卡片太多
 
@@ -175,7 +176,7 @@ serial, uart, automation, pyqt5, python, terminal
 - 连续贡献：`<img ... streak-stats ...>`
 - 语言卡片
 
-保留统计卡 + 贪吃蛇即可。
+保留统计卡即可。
 
 ### 修改主题色
 
@@ -199,8 +200,6 @@ serial, uart, automation, pyqt5, python, terminal
 ## 验证清单
 
 - [ ] `https://github.com/Yunheeee` 顶部出现 README
-- [ ] Actions 中 Generate Snake 运行成功
-- [ ] `output` 分支存在，贪吃蛇图片能打开
 - [ ] 3 个原创项目已置顶
 - [ ] 3 个项目的 Description 和 Topics 已补齐
 - [ ] 个人资料 Bio 已填写
