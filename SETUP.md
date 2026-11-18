@@ -9,11 +9,11 @@
 Yunheeee-profile/
 ├── README.md                      # 显示在 GitHub 个人主页顶部的介绍
 ├── SETUP.md                       # 本说明
-└── .github/workflows/snake.yml    # 可选：生成贡献贪吃蛇 SVG（当前未使用）
+└── .github/workflows/snake.yml    # 生成贡献贪吃蛇 SVG
 ```
 
-> **当前 README 是极简版**：只保留个人描述。  
-> 第 3 节贪吃蛇、第 7 节动态卡片都是可选扩展，不执行也不影响主页。
+> **当前 README 保留**：标题、个人描述（中英）、技术徽章、贡献贪吃蛇。  
+> 第 7 节的统计卡/活动图属于可选扩展，当前未使用。
 
 ---
 
@@ -49,10 +49,7 @@ git push -u origin main
 
 如果本机 SSH key 已经能推送 `Ext4WslHelper`，这里不需要额外配置。
 
-## 3. 可选：启用贡献贪吃蛇
-
-当前 README 没有引用贪吃蛇图片，不需要执行本节。只有以后想在 README 里加回贪吃蛇时再操作。  
-工作流已改为仅手动触发，不会定时运行。
+## 3. 启用贡献贪吃蛇
 
 推送后：
 
@@ -149,9 +146,9 @@ serial, uart, automation, pyqt5, python, terminal
 
 ---
 
-## 7. 可选扩展（当前 README 未使用）
+## 7. 可选扩展（当前未使用）
 
-当前 README 是纯文本极简版，没有动态卡片。以下内容仅作为以后扩展参考。
+当前 README 没有使用统计卡、语言卡、streak、活动图等动态卡片。以下内容仅作为以后扩展参考。
 
 ### 动态卡片服务说明
 
@@ -202,6 +199,8 @@ serial, uart, automation, pyqt5, python, terminal
 ## 验证清单
 
 - [ ] `https://github.com/Yunheeee` 顶部出现 README
+- [ ] Actions 中 Generate Snake 运行成功
+- [ ] `output` 分支存在，贪吃蛇图片能打开
 - [ ] 3 个原创项目已置顶
 - [ ] 3 个项目的 Description 和 Topics 已补齐
 - [ ] 个人资料 Bio 已填写
